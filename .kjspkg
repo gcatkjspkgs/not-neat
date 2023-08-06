@@ -1,0 +1,9 @@
+{
+    "author": "TheonlyTazz",
+    "description": "A script that allows you to hide the neat tooltip depending on the game stages the player has. Docs: https://github.com/gcatkjspkgs/not-neat/blob/main/README.md",
+    
+    "versions": [6, 8, 9],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": ["kjspkg-compat-layer", "mod:neat"],
+    "incompatibilities": []
+}
