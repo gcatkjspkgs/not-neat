@@ -13,4 +13,4 @@ event.player.stages.remove('neat') // also in some event
 
 ## Funni
 
-![YOU_DONT_HAVE_NEAT_STAGE](https://media.discordapp.net/attachments/1137298466691874826/1137298467325231135/notNeat.png)
+![YOU_DONT_HAVE_NEAT_STAGE](https://kubejs.com/wiki/files/addons/kjspkg/notneat.png)
